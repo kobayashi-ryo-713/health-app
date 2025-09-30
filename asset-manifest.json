@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kobayashi-ryo-713/health-app/static/css/main.95473eef.css",
+    "main.js": "/kobayashi-ryo-713/health-app/static/js/main.820f441d.js",
+    "static/js/453.ecc008d4.chunk.js": "/kobayashi-ryo-713/health-app/static/js/453.ecc008d4.chunk.js",
+    "index.html": "/kobayashi-ryo-713/health-app/index.html",
+    "main.95473eef.css.map": "/kobayashi-ryo-713/health-app/static/css/main.95473eef.css.map",
+    "main.820f441d.js.map": "/kobayashi-ryo-713/health-app/static/js/main.820f441d.js.map",
+    "453.ecc008d4.chunk.js.map": "/kobayashi-ryo-713/health-app/static/js/453.ecc008d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95473eef.css",
+    "static/js/main.820f441d.js"
+  ]
+}
