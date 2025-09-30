@@ -14,7 +14,7 @@
   },
   "homepage": "https://github.com/kobayashi-ryo-713/health-app",
   "scripts": {
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
